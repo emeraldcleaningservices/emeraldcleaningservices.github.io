@@ -54,6 +54,21 @@ body {
   background-color: #042c2e;
 }
 
+.social-links {
+  margin-top: 15px;
+}
+
+.facebook-icon {
+  width: 35px;
+  height: auto;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.facebook-icon:hover {
+  transform: scale(1.1);
+}
+
 .site-footer {
   text-align: center;
   background: #063e41;
