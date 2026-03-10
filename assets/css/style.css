@@ -37,15 +37,15 @@ body {
 }
 
 .contact-button {
-  display: inline-block;
+  display: block;                 /* makes margin auto work */
+  width: fit-content;             /* button only as wide as the text */
   background-color: #1f7a4c;
   color: #ffe5d4;
   padding: 15px 30px;
-  margin: 30px auto;
+  margin: 40px auto;              /* centers horizontally */
   text-align: center;
   font-size: 1.2em;
   font-weight: bold;
-  border: none;
   border-radius: 5px;
   text-decoration: none;
   cursor: pointer;
