@@ -38,7 +38,7 @@ body {
 .contact-button {
   display: block;
   width: fit-content;
-  background-color: #1f7a4c;
+  background-color: #063e41;
   color: #ffe5d4;
   padding: 15px 30px;
   margin: 40px auto;   /* centers horizontally */
@@ -51,7 +51,7 @@ body {
 }
 
 .contact-button:hover {
-  background-color: #17603a;
+  background-color: #042c2e;
 }
 
 .site-footer {
