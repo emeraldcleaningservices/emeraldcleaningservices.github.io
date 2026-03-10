@@ -31,11 +31,8 @@ Reliable, thorough, and affordable cleaning tailored to your needs.
 
 ## Customer Reviews
 
-> "Fantastic service. The house looked amazing afterwards and the team were very friendly."  
-> **– Sarah L.**
+> "Great cleaners, friendly and accomodating! Just love coming home to a clean home! Highly reccomend their services."  
+> **– Maddy G.**
 
-> "Reliable and professional every time. Highly recommend Emerald Cleaning Services."  
-> **– James T.**
-
-> "Great attention to detail. They always go the extra mile."  
-> **– Priya K.**
+> "So happy I could have cried coming home to my lovely clean home after these lovely ladies done a full clean, my home felt like new again! Thank you so much I can't wait till next week!"  
+> **– Beth N.**
