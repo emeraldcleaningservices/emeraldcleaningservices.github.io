@@ -1,14 +1,16 @@
----
-layout: default
-title: Home
+# Emerald Cleaning Services
+
+<p align="center">
+  <img src="logo.png" alt="Emerald Cleaning Services Logo" width="220">
+</p>
+
 ---
 
 ## About Us
 
-Emerald Cleaning Services provides reliable and professional cleaning for homes and businesses.  
-We pride ourselves on attention to detail, friendly service, and leaving every space spotless.
+Emerald Cleaning Services provides reliable and professional cleaning for homes and businesses. We pride ourselves on attention to detail, friendly service, and leaving every space spotless.
 
-Whether you need regular home cleaning, deep cleaning, or help preparing a property for guests, we are here to help.
+Whether you need regular home cleaning, a deep clean, or help preparing a property for guests, we are here to help.
 
 ---
 
@@ -22,3 +24,14 @@ Whether you need regular home cleaning, deep cleaning, or help preparing a prope
 
 > "Great attention to detail. They always go the extra mile."  
 > **– Priya K.**
+
+---
+
+## Contact
+
+**Email:** contact@emeraldcleaning.co.uk  
+**Phone:** 07123 456789
+
+---
+
+© Emerald Cleaning Services
