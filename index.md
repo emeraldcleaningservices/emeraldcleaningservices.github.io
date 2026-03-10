@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-## About Us
-
-**Welcome to Emerald Cleaning Services**
+## Welcome to Emerald Cleaning Services
 
 We are a professional two-person cleaning team with over 20 years of combined experience in the cleaning industry. Based in Portsmouth, we proudly serve Portsmouth and the surrounding areas, helping homeowners keep their spaces fresh, spotless, and sparkling.
 
