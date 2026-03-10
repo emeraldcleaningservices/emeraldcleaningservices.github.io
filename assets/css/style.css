@@ -1,31 +1,29 @@
-body {
-  font-family: 'Inter', sans-serif;
-  margin: 0;
-  color: #2c2c2c;
-  background: #f9fafb;
-  line-height: 1.6;
-}
-
-/* Header */
-
-header {
+.site-header {
+  text-align: center;
   background: white;
   border-bottom: 1px solid #eee;
-  padding: 20px 10%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  padding: 25px 10%;
 }
 
-header h1 {
+.logo-container img {
+  width: 120px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.company-name {
   font-family: 'Playfair Display', serif;
-  font-size: 28px;
-  margin: 0;
+  font-size: 32px;
+  margin: 5px 0 15px 0;
   color: #1c3b2a;
 }
 
+nav {
+  margin-top: 10px;
+}
+
 nav a {
-  margin-left: 25px;
+  margin: 0 15px;
   text-decoration: none;
   color: #444;
   font-weight: 500;
@@ -33,77 +31,4 @@ nav a {
 
 nav a:hover {
   color: #2f7a4c;
-}
-
-/* Hero section */
-
-.hero {
-  background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-              url('/images/cleaning.jpg') center/cover;
-  color: white;
-  padding: 120px 10%;
-}
-
-.hero h1 {
-  font-family: 'Playfair Display', serif;
-  font-size: 48px;
-  margin-bottom: 20px;
-}
-
-.hero p {
-  font-size: 20px;
-  max-width: 600px;
-}
-
-.hero button {
-  margin-top: 25px;
-  padding: 14px 26px;
-  background: #2f7a4c;
-  border: none;
-  color: white;
-  font-size: 16px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.hero button:hover {
-  background: #25663f;
-}
-
-/* Content */
-
-main {
-  padding: 70px 10%;
-}
-
-h2 {
-  font-family: 'Playfair Display', serif;
-  font-size: 34px;
-  margin-bottom: 20px;
-}
-
-/* Services grid */
-
-.services {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
-  gap: 30px;
-  margin-top: 30px;
-}
-
-.service-card {
-  background: white;
-  padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-}
-
-/* Footer */
-
-footer {
-  background: #1c3b2a;
-  color: white;
-  text-align: center;
-  padding: 30px;
-  margin-top: 60px;
 }
