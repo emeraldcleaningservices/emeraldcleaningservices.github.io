@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center; /* center logo and text */
-  background: #1f7a4c;
+  background: #063e41;
   color: #ffe5d4; /* header font color */
   padding: 20px 40px;
   gap: 15px; /* space between logo and text */
@@ -37,7 +37,7 @@ body {
 
 .site-footer {
   text-align: center;
-  background: #1f7a4c;
+  background: #063e41;
   color: white;
   padding: 20px;
 }
