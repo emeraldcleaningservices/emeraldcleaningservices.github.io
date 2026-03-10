@@ -12,6 +12,12 @@ Whether you need regular home cleaning, deep cleaning, or help preparing a prope
 
 ---
 
+## Pricing
+
+(Put prices here)
+
+---
+
 ## Customer Reviews
 
 > "Fantastic service. The house looked amazing afterwards and the team were very friendly."  
