@@ -3,39 +3,50 @@ layout: default
 title: Home
 ---
 
-<section class="hero">
-<h1>Professional Cleaning Services</h1>
+## About
 
-<p>
-Reliable, high-quality cleaning for homes, offices and commercial spaces.
-Let us make your space shine.
-</p>
+Emerald Cleaning Services provides reliable and professional cleaning for homes and small businesses.
 
-<button>Request a Quote</button>
-</section>
+With a focus on attention to detail and a personal approach, every job is completed to a high standard. Whether you need regular cleaning or a one-off deep clean, we aim to leave your space fresh and spotless.
 
-## Our Services
+Services include:
 
-<div class="services">
+- Regular home cleaning
+- Deep cleaning
+- End of tenancy cleaning
+- Office cleaning
 
-<div class="service-card">
-<h3>Home Cleaning</h3>
-<p>Regular and deep cleaning for houses and apartments.</p>
+---
+
+## Recent Work
+
+<div class="image-gallery">
+
+<img src="{{ site.baseurl }}/images/work1.jpg">
+<img src="{{ site.baseurl }}/images/work2.jpg">
+<img src="{{ site.baseurl }}/images/work3.jpg">
+
 </div>
 
-<div class="service-card">
-<h3>Office Cleaning</h3>
-<p>Maintain a spotless and professional working environment.</p>
+---
+
+## Customer Reviews
+
+<div class="reviews">
+
+<div class="review">
+<p>"Fantastic service. My home looks amazing every time."</p>
+<span>— Sarah L.</span>
 </div>
 
-<div class="service-card">
-<h3>Deep Cleaning</h3>
-<p>Detailed cleaning for kitchens, bathrooms and high-traffic areas.</p>
+<div class="review">
+<p>"Reliable and very thorough cleaning. Highly recommend."</p>
+<span>— David M.</span>
 </div>
 
-<div class="service-card">
-<h3>Custom Services</h3>
-<p>Tailored cleaning solutions to meet your needs.</p>
+<div class="review">
+<p>"Friendly, professional and always does a great job."</p>
+<span>— Emma R.</span>
 </div>
 
 </div>
