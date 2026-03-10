@@ -72,7 +72,8 @@ body {
 .site-footer {
   text-align: center;
   background: #063e41;
-  color: white;
+  color: #bb7d64;   /* same colour as logo */
+  font-weight: bold;
   padding: 20px;
 }
 
