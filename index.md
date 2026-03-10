@@ -37,4 +37,9 @@ Reliable, thorough, and affordable cleaning tailored to your needs.
 > "So happy I could have cried coming home to my lovely clean home after these lovely ladies done a full clean, my home felt like new again! Thank you so much I can't wait till next week!"  
 > **– Beth N.**
 
+---
+##Let us take care of your cleaning!
+
+Let us take care of all the hard work, managing your cleaning needs and keeping your space spotless is our specialty!
+
 [Contact Us](/contact-us){: .contact-button }
