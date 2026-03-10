@@ -9,13 +9,11 @@ body {
 }
 
 .site-header {
-  display: flex;
-  align-items: center;
-  justify-content: center; /* center logo and text */
+  display: block;          /* stack elements vertically */
+  text-align: center;      /* center text */
   background: #063e41;
-  color: #bb7d64; /* header font color */
-  padding: 20px 40px;
-  gap: 15px; /* space between logo and text */
+  color: #bb7d64;
+  padding: 30px 20px;
 }
 
 .logo {
