@@ -19,9 +19,10 @@ body {
 }
 
 .logo {
-  width: 60px; /* small logo */
+  width: 160px;        /* match the size you want */
   height: auto;
   display: block;
+  margin: 20px auto 0 auto;   /* centers the logo */
 }
 
 .header-text h1 {
