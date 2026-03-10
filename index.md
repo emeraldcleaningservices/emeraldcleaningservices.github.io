@@ -5,10 +5,13 @@ title: Home
 
 ## About Us
 
-Emerald Cleaning Services provides reliable and professional cleaning for homes and businesses.  
-We pride ourselves on attention to detail, friendly service, and leaving every space spotless.
+**Welcome to Emerald Cleaning Services**
 
-Whether you need regular home cleaning, deep cleaning, or help preparing a property for guests, we are here to help.
+We are a professional two-person cleaning team with over 20 years of combined experience in the cleaning industry. Based in Portsmouth, we proudly serve Portsmouth and the surrounding areas, helping homeowners keep their spaces fresh, spotless, and sparkling.
+
+We take great pride in our attention to detail and the high standards we deliver for every customer. Over the years, we have built a strong base of loyal, regular clients, which reflects the quality and reliability of our service.
+
+All cleaning products and equipment are provided, and we offer a fully bespoke service tailored to suit each customer’s individual needs. Our goal is simple – to give your home that extra sparkle so you can relax and enjoy your space.
 
 ---
 
