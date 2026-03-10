@@ -36,6 +36,25 @@ body {
   background: white;
 }
 
+.contact-button {
+  display: inline-block;
+  background-color: #1f7a4c;
+  color: #ffe5d4;
+  padding: 15px 30px;
+  margin: 30px auto;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.contact-button:hover {
+  background-color: #17603a;
+}
+
 .site-footer {
   text-align: center;
   background: #063e41;
