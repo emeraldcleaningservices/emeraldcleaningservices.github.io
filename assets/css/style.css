@@ -1,34 +1,64 @@
 .site-header {
   text-align: center;
+  padding: 40px 20px;
   background: white;
-  border-bottom: 1px solid #eee;
-  padding: 25px 10%;
 }
 
-.logo-container img {
+.logo {
   width: 120px;
-  height: auto;
   margin-bottom: 10px;
 }
 
 .company-name {
   font-family: 'Playfair Display', serif;
-  font-size: 32px;
-  margin: 5px 0 15px 0;
+  font-size: 36px;
   color: #1c3b2a;
+  margin: 0;
 }
 
-nav {
-  margin-top: 10px;
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
 }
 
-nav a {
-  margin: 0 15px;
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.image-gallery img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.reviews {
+  margin-top: 30px;
+}
+
+.review {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-left: 4px solid #2f7a4c;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+}
+
+.site-footer {
+  text-align: center;
+  background: #1c3b2a;
+  color: white;
+  padding: 30px 20px;
+  margin-top: 50px;
+}
+
+.site-footer a {
+  color: #9fe3b3;
   text-decoration: none;
-  color: #444;
-  font-weight: 500;
 }
 
-nav a:hover {
-  color: #2f7a4c;
+.site-footer a:hover {
+  text-decoration: underline;
 }
