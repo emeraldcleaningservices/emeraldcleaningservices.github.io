@@ -1,20 +1,31 @@
+/* style.css */
+
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background: #f4f4f4;
-  color: #333;
+  color: black; /* main text color */
 }
 
 .site-header {
-  text-align: center;
-  background: #003d40;
-  color: white;
-  padding: 20px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* align logo left of text */
+  background: #1f7a4c;
+  color: white; /* header font color */
+  padding: 20px 40px;
+  gap: 15px; /* space between logo and text */
 }
 
 .logo {
-  width: 240px;
-  margin: 0px;
+  width: 60px; /* small logo */
+  height: auto;
+  display: block;
+}
+
+.header-text h1 {
+  margin: 0;
+  font-size: 2em;
 }
 
 .content {
@@ -26,7 +37,7 @@ body {
 
 .site-footer {
   text-align: center;
-  background: #003d40;
+  background: #1f7a4c;
   color: white;
   padding: 20px;
 }
