@@ -17,11 +17,11 @@ All cleaning products and equipment are provided, and we offer a fully bespoke s
 
 Cleaning Services Offered
 
-• Weekly & Bi-Weekly Cleans – £18 per hour
-• Deep Cleans – £20 per hour
-• End of Tenancy Cleans – from £130 
-• Airbnb Cleans – from £50
-• Ironing Service – £18 per hour
+- Weekly & Bi-Weekly Cleans – £18 per hour
+- Deep Cleans – £20 per hour
+- End of Tenancy Cleans – from £130 
+- Airbnb Cleans – from £50
+- Ironing Service – £18 per hour
 
 Reliable, thorough, and affordable cleaning tailored to your needs.
 
