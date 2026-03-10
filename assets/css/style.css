@@ -1,7 +1,15 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+}
+
 .site-header {
   text-align: center;
+  background: #1f7a4c;
+  color: white;
   padding: 40px 20px;
-  background: white;
 }
 
 .logo {
@@ -9,56 +17,20 @@
   margin-bottom: 10px;
 }
 
-.company-name {
-  font-family: 'Playfair Display', serif;
-  font-size: 36px;
-  color: #1c3b2a;
-  margin: 0;
-}
-
-main {
-  max-width: 800px;
+.content {
+  max-width: 900px;
   margin: auto;
   padding: 40px 20px;
-}
-
-.image-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
-  gap: 15px;
-  margin-top: 20px;
-}
-
-.image-gallery img {
-  width: 100%;
-  border-radius: 6px;
-}
-
-.reviews {
-  margin-top: 30px;
-}
-
-.review {
-  background: #fff;
-  padding: 20px;
-  margin-bottom: 15px;
-  border-left: 4px solid #2f7a4c;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+  background: white;
 }
 
 .site-footer {
   text-align: center;
-  background: #1c3b2a;
+  background: #1f7a4c;
   color: white;
-  padding: 30px 20px;
-  margin-top: 50px;
+  padding: 20px;
 }
 
-.site-footer a {
-  color: #9fe3b3;
-  text-decoration: none;
-}
-
-.site-footer a:hover {
-  text-decoration: underline;
+.contact {
+  margin-bottom: 10px;
 }
