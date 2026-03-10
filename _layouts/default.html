@@ -1,18 +1,29 @@
-<footer class="site-footer">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
 
-<p><strong>Contact</strong></p>
+<body>
 
-<p>📞 07500 000000</p>
+  {% include header.html %}
 
-<p>✉ emeraldcleaning@email.com</p>
+  <main class="content">
+    {{ content }}
+  </main>
 
-<p>
-<a href="#">Facebook</a> |
-<a href="#">Instagram</a>
-</p>
+  <footer class="site-footer">
 
-<p class="copyright">
-© {{ "now" | date: "%Y" }} Emerald Cleaning Services
-</p>
+    <div class="contact">
+      <p>Email: contact@emeraldcleaning.co.uk</p>
+      <p>Phone: 07123 456789</p>
+    </div>
 
-</footer>
+    <p class="footer-name">Emerald Cleaning Services</p>
+
+  </footer>
+
+</body>
+</html>
