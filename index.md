@@ -3,50 +3,22 @@ layout: default
 title: Home
 ---
 
-## About
+## About Us
 
-Emerald Cleaning Services provides reliable and professional cleaning for homes and small businesses.
+Emerald Cleaning Services provides reliable and professional cleaning for homes and businesses.  
+We pride ourselves on attention to detail, friendly service, and leaving every space spotless.
 
-With a focus on attention to detail and a personal approach, every job is completed to a high standard. Whether you need regular cleaning or a one-off deep clean, we aim to leave your space fresh and spotless.
-
-Services include:
-
-- Regular home cleaning
-- Deep cleaning
-- End of tenancy cleaning
-- Office cleaning
-
----
-
-## Recent Work
-
-<div class="image-gallery">
-
-<img src="{{ site.baseurl }}/images/work1.jpg">
-<img src="{{ site.baseurl }}/images/work2.jpg">
-<img src="{{ site.baseurl }}/images/work3.jpg">
-
-</div>
+Whether you need regular home cleaning, deep cleaning, or help preparing a property for guests, we are here to help.
 
 ---
 
 ## Customer Reviews
 
-<div class="reviews">
+> "Fantastic service. The house looked amazing afterwards and the team were very friendly."  
+> **– Sarah L.**
 
-<div class="review">
-<p>"Fantastic service. My home looks amazing every time."</p>
-<span>— Sarah L.</span>
-</div>
+> "Reliable and professional every time. Highly recommend Emerald Cleaning Services."  
+> **– James T.**
 
-<div class="review">
-<p>"Reliable and very thorough cleaning. Highly recommend."</p>
-<span>— David M.</span>
-</div>
-
-<div class="review">
-<p>"Friendly, professional and always does a great job."</p>
-<span>— Emma R.</span>
-</div>
-
-</div>
+> "Great attention to detail. They always go the extra mile."  
+> **– Priya K.**
