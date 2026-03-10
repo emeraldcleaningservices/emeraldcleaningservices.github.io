@@ -38,12 +38,12 @@ body {
 }
 
 .contact-button {
-  display: block;                 /* makes margin auto work */
-  width: fit-content;             /* button only as wide as the text */
+  display: block;
+  width: fit-content;
   background-color: #1f7a4c;
   color: #ffe5d4;
   padding: 15px 30px;
-  margin: 40px auto;              /* centers horizontally */
+  margin: 40px auto;   /* centers horizontally */
   text-align: center;
   font-size: 1.2em;
   font-weight: bold;
