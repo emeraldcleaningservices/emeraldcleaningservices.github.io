@@ -4,15 +4,15 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background: #f4f4f4;
-  color: black; /* main text color */
+  color: #e2a891; /* main text color */
 }
 
 .site-header {
   display: flex;
   align-items: center;
-  justify-content: flex-start; /* align logo left of text */
+  justify-content: center; /* center logo and text */
   background: #1f7a4c;
-  color: white; /* header font color */
+  color: #ffe5d4; /* header font color */
   padding: 20px 40px;
   gap: 15px; /* space between logo and text */
 }
