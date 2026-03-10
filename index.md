@@ -12,7 +12,7 @@ Whether you need regular home cleaning, deep cleaning, or help preparing a prope
 
 ---
 
-## Pricing
+## What We Offer
 
 (Put prices here)
 
